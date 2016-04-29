@@ -9,7 +9,7 @@
 
 require_relative 'timer'
 
-describe "Timer" do
+describe Timer do
   before(:each) do
     @timer = Timer.new
   end
